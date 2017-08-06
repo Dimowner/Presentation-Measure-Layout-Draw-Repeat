@@ -33,7 +33,7 @@ android {
         versionName "${versionMajor}.${versionMinor}.${versionPatch}"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
 
-
+//      My test changes
 
         vectorDrawables.useSupportLibrary = true
     }
